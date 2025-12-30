@@ -1,4 +1,4 @@
-package com.luizdev.sistema_usuario.dto;
+package com.luizdev.sistema_usuario.dto.request;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.Min;

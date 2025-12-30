@@ -145,4 +145,3 @@ Desenvolvedor Backend em formação
 
 * GitHub: [https://github.com/DevLuiz-eng](https://github.com/DevLuiz-eng)
 Aqui não tem brincadeira mesmo 👊
-```

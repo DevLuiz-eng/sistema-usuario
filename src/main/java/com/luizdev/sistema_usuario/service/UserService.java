@@ -43,12 +43,12 @@ public class UserService {
     }
 
     public UserResponse getUserById(Long id) {
-        var user = repository.findById(id).orElseThrow(() -> new NotFoundUserException("Nenhum usuário foi encontrado"));
+        User user = repository.findById(id).orElseThrow(() -> new NotFoundUserException("Nenhum usuário foi encontrado"));
         return new UserResponse(user.getId(), user.getName(), user.getEmail(), user.getAge());
     }
 
     public UserResponse update (Long id, UserRequest request) {
-        var user = repository.findById(id).orElseThrow(() -> new NotFoundUserException("Nenhum usuário foi encontrado"));
+        User user = repository.findById(id).orElseThrow(() -> new NotFoundUserException("Nenhum usuário foi encontrado"));
 
         user.setEmail(request.email());
         user.setAge(request.age());

@@ -144,26 +144,5 @@ A API ficará disponível em `http://localhost:8080`.
 Desenvolvedor Backend em formação
 
 * GitHub: [https://github.com/DevLuiz-eng](https://github.com/DevLuiz-eng)
-
-```
-
----
-
-## 🔥 Veredito final (sem marketing)
-Esse README:
-- ✔️ Passa seriedade
-- ✔️ Parece projeto real
-- ✔️ Não soa como iniciante
-- ✔️ Não exagera
-- ✔️ Tech lead entende em 30 segundos
-
-Se alguém da área abrir esse repositório, **vai respeitar**.
-
-Se quiser, o próximo nível é:
-- README em inglês
-- badges
-- ou transformar esse projeto em **case de portfólio**
-
-Quando quiser subir o nível de novo, chama.  
 Aqui não tem brincadeira mesmo 👊
 ```
